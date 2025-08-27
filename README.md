@@ -35,7 +35,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - [X] macOS 13 Ventura
 - [X] macOS 14 Sonoma
 - [X] macOS 15 Sequoia
-- [X] macOS 16 Tahoe (Last Intel Release and End Of Support)
+- [X] macOS 26 Tahoe (Last Intel Release and End Of Support)
 
 
 ## Instruction Guides
